@@ -94,8 +94,7 @@ export default function Listing() {
               {listing.offer
               ? listing.discountPrice.toLocaleString('en-IN', {style: 'currency', currency: 'INR'})
               : listing.regularPrice.toLocaleString('en-IN', {style: 'currency', currency: 'INR'})              
-                // ? listing.discountPrice.toLocaleString('en-INR')
-                // : listing.regularPrice.toLocaleString('en-INR')
+      
                 }
               {listing.type === 'rent' && ' / month'}
             </p>
