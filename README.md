@@ -8,6 +8,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Releases](#releases)
 
 
 
@@ -24,53 +25,8 @@ UrbanNex is a comprehensive real estate website developed using the MERN stack (
 - **Responsive Design**: Mobile-friendly, responsive UI built with TailwindCSS.
 - **Smooth Navigation**: Enhanced user experience with Swiper for carousels.
 
-## Installation
 
-### Prerequisites
+## Releases
 
-- Node.js and npm installed on your machine.
-
-### Steps
-
-1. **Clone the repository**
-    ```bash
-    git clone https://github.com/Aadityakesarwani/UrbanNexx
-    ```
-
-2. **Set up the server**
-    - Navigate to the root directory and install server dependencies.
-    ```bash
-    npm install
-    ```
-
-    - Create a `.env` file in the root directory and add your environment variables.
-    ```bash
-    MONGO_URI=your_mongodb_uri
-    JWT_SECRET=your_jwt_secret
-    ```
-
-3. **Set up the client**
-    - Navigate to the `client` directory and install client dependencies and create a `.env` file in it.
-    ```bash
-    cd client
-    npm install
-    
-    VITE_FIREBASE_API_KEY = "your_vite_api_key"
-    ```
-
-4. **Run the development server**
-    - In the root directory, run the following command to start both the client and server.
-    ```bash
-    npm run dev
-    ```
-
-## Usage
-
-- **Browse Properties**: Visit the homepage to browse the latest property listings.
-- **Search Properties**: Use the search functionality to find specific properties.
-- **View Property Details**: Click on a property to view more details, including images, price, and description.
-- **User Authentication**: Sign up or log in to save favorite properties and access additional features.
-- **List Properties**: If you want to rent, sell properites. you can list it on urbannex.
-
-
-
+- **Version**: v1.0.0
+- **Deployed Link**: [UrbanNex Real Estate](https://urbannex-real-state.onrender.com)
