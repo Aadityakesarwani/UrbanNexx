@@ -8,7 +8,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+
 
 
 ## Overview
@@ -72,24 +72,5 @@ UrbanNex is a comprehensive real estate website developed using the MERN stack (
 - **User Authentication**: Sign up or log in to save favorite properties and access additional features.
 - **List Properties**: If you want to rent, sell properites. you can list it on urbannex.
 
-
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request for any enhancements, bug fixes, or feature additions.
-
-1. **Fork the repository**
-2. **Create your feature branch**
-    ```bash
-    git checkout -b feature/your-feature-name
-    ```
-3. **Commit your changes**
-    ```bash
-    git commit -m 'Add some feature'
-    ```
-4. **Push to the branch**
-    ```bash
-    git push origin feature/your-feature-name
-    ```
-5. **Create a new Pull Request**
 
 
