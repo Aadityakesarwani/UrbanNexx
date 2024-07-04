@@ -1,7 +1,5 @@
 # UrbanNex Real Estate Website
 
-![License](https://img.shields.io/badge/license-ISC-blue.svg)
-
 ## Table of Contents
 
 - [Overview](#overview)
