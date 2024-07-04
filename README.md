@@ -20,7 +20,7 @@ UrbanNex is a comprehensive real estate website developed using the MERN stack (
 
 - **Property Listings**: Browse and search for properties.
 - **Property Details**: View detailed information about each property.
-- **User Authentication**: Secure user authentication using JWT and Firebase.
+- **User Authentication**: Secure user authentication using clerk.
 - **State Management**: Robust state management with Redux and Redux Persist.
 - **Responsive Design**: Mobile-friendly, responsive UI built with TailwindCSS.
 - **Smooth Navigation**: Enhanced user experience with Swiper for carousels.
